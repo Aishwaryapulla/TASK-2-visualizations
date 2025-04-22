@@ -5,7 +5,6 @@ I started by designing simple but powerful visuals:
 •	Line charts for tracking sales trends over time and understanding discount impact on quantity and profit.
 •	Pie Chart were used to categorize sum of Sales by ship mode.
 •	A Q&A visual enabled users to interact with the data using natural language, offering quick insights like top products, average shipping times, or customer counts by category.
-
 𝐄𝐚𝐜𝐡 𝐯𝐢𝐬𝐮𝐚𝐥 𝐰𝐚𝐬 𝐜𝐚𝐫𝐞𝐟𝐮𝐥𝐥𝐲 𝐜𝐡𝐨𝐬𝐞𝐧 𝐭𝐨 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐬𝐩𝐞𝐜𝐢𝐟𝐢𝐜 𝐛𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬, 𝐬𝐮𝐜𝐡 𝐚𝐬:
 •	Where are we making the most sales?
 •	Which products are selling the most units?
